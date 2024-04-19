@@ -1,0 +1,5 @@
+---
+# Wesley Telegram
+name: wesley_ntfy
+platform: apprise
+url: ntfys://tk_bfdqbf3zjk8xi4wu309ap9vs8wxl5@ntfy.weaselweb.nl/hass
